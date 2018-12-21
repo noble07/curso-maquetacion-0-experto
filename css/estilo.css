@@ -95,8 +95,8 @@ nav ul li{
 }
 /*FIN BOTONERA SLIDE*/
 
-/*SECTION*/
-section{
+/*SECTION INICIO*/
+section#inicio{
     position: relative;
     margin: auto;
     width: 1000px;
@@ -127,7 +127,37 @@ section ul li img{
     background: silver;
     margin: 1px 29px;
 }
-/*FIN SECTION*/
+/*FIN SECTION INICIO*/
+
+/*SECTION QUIENES SOMOS*/
+section#quienesSomos{
+    position: relative;
+    margin: auto;
+    width: 1000px;
+    height: 299px;
+    background: white;
+}
+/*FIN SECTION QUIENES SOMOS*/
+
+/*SECTION SERVICIOS*/
+section#servicios{
+    position: relative;
+    margin: auto;
+    width: 1000px;
+    height: 299px;
+    background: white;
+}
+/*FIN SECTION SERVICIOS*/
+
+/*SECTION CONTACTENOS*/
+section#contactenos{
+    position: relative;
+    margin: auto;
+    width: 1000px;
+    height: 299px;
+    background: white;
+}
+/*FIN SECTION CONTACTENOS*/
 
 /*BOTTOM*/
 #bottom{
